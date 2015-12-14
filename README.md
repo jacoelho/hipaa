@@ -6,3 +6,5 @@
 * [self assessment checklist](https://catalyze.io/hipaa-self-assessment-checklist)
  
 * [hipaa compliance developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
+
+* [aws compliance whitepaper](https://d0.awsstatic.com/whitepapers/compliance/AWS_HIPAA_Compliance_Whitepaper.pdf)
