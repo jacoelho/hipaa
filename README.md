@@ -18,3 +18,5 @@
 * [Architecting for HIPAA Compliance on AWS](https://www.youtube.com/watch?v=c_06psX2obI)
 
 * [HIPAA for Startups](https://www.youtube.com/watch?v=Ehe_ZGaJ07M)
+
+* [Building & Maintaining HIPAA-Compliant Applications in AWS](https://vimeo.com/45905641)
