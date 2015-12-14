@@ -11,6 +11,10 @@
  
 * [catalyze hipaa policy documentation](https://github.com/catalyzeio/policies)
 
+* [How Cotap Is Building A HIPAA-compliant Messaging Service On AWS](http://stackshare.io/cotap/how-cotap-is-building-a-hipaa-compliant-messaging-service-on-aws)
+
 ## Videos
 
 * [Architecting for HIPAA Compliance on AWS](https://www.youtube.com/watch?v=c_06psX2obI)
+
+* [HIPAA for Startups](https://www.youtube.com/watch?v=Ehe_ZGaJ07M)
