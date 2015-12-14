@@ -1,8 +1,11 @@
-# hipaa
- A curated list of articles about hipaa
+# HIPAA
+
+A curated list of articles about hipaa
  
 ## Documentation
- 
+
+* [Is Anyone Really 'HIPAA Compliant' In Healthcare?](http://www.forbes.com/sites/danmunro/2014/09/28/is-anyone-really-hipaa-compliant-in-healthcare/)
+
 * [self assessment checklist](https://catalyze.io/hipaa-self-assessment-checklist)
 
 * [hipaa compliance developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
